@@ -1,19 +1,4 @@
-body {
-	background-image: url("tausta.png");
-    	background-color: #8A2BE2;
-}
-
-h1 {
-    color: white;
-    text-align: center;
-}
-
-p {
-    font-family: verdana;
-    font-size: 20px;
-}
-
-table, th, td {
-	background-color: #aa80ff;
-	border: 1px #000000
-}
+body {background-image: url("tausta.png");background-color: #8A2BE2;}
+h1 {color: white; text-align: center;font-family: impact;}
+h2 {color:white; font-family: script;}
+table, th, td {background-color: #aa80ff;border: 1px #000000}
