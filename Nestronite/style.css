@@ -1,6 +1,6 @@
 body {background-image: url("tausta.png");background-color: #4d0028;margin-left: 7%;margin-right: 7%;}
 h1 {color: #ffffff; text-align: center;font-family: impact;font-size: 400%;}
 h2 {color: #ffffff; font-family: script;}
-table.table1, th, td {border: 1px solid #000000;background-color: #ffe6f3;}
-table.table2 th.table2, td.table2 {border: None;background-color: #800040;width: 100%;}
+table.table1, th.table1, td.table1 {border: 1px solid #000000;background-color: #ffe6f3;}
+table.table2 {border: None;background-color: #800040;width: 100%;}
 a {color: #ffffff;font-family: script;}
